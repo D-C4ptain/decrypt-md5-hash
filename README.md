@@ -1,5 +1,6 @@
 # md5-hash-cracker
-This is a simple python code that goes through a series of words in a wordlist to decrypt any MD5 hash text. I put it for both Python 2.7 and 3.7.....
+This is a simple python code that goes through a series of words in a wordlist to decrypt any MD5 hash text. 
+Each Python version has it's own file.
 
 STEPS
 
