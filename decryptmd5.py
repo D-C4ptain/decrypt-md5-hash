@@ -49,11 +49,11 @@ def work(phash, wlist):
         digest  = hashlib.md5(enc_wrd.strip()).hexdigest()
         if digest == phash:
             print(f"\nFound A Match for '{digest}'")
-            print("The Password Is: " +word)
+            print("The Plaintext Is: " +word)
             f = True
             break
     if f == False:
-        print("\nPassword Not Found In Wordlist,\nTry A Different List\n")
+        print("\nPlaintext Not Found In Wordlist,\nTry A Different List\n")
     
 if __name__ == "__main__":
     disp()
