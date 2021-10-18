@@ -50,4 +50,4 @@ This simple md5 hash decrypter was created and is maintained by **[d_captainkeny
 
 ## Copyright and License
 
-Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/decrypt-md5-hash/blob/main/LICENSE) license.
+Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/decrypt-md5-hash/blob/master/LICENSE) license.
