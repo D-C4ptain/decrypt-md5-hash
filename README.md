@@ -5,10 +5,11 @@ The MD5 message digest algorithm is a cryptographically broken but still widely 
 ## About
 A simple python script that goes through a wordlist to decrypt an MD5 hash.
 
-- USAGE:
-	python crackmd5hash.py md5hash wordlistpath
-	Python crackmd5hash.py ab334feeb31c05124cb73fa12571c2f6 /home/worldist.txt
-	Python crackmd5hash.py ab334feeb31c05124cb73fa12571c2f6 D:\\myfiles\wordlist.txt
+## USAGE:
+- 
+- python crackmd5hash.py md5hash wordlistpath
+- Python crackmd5hash.py ab334feeb31c05124cb73fa12571c2f6 /home/worldist.txt
+- Python crackmd5hash.py ab334feeb31c05124cb73fa12571c2f6 D:\\myfiles\wordlist.txt
 
 Try different wordlists
 	 
