@@ -30,7 +30,6 @@ def args():
             work(sys.argv[1], sys.argv[2])
         else:
             usage()
-            sys.exit(0)
     except KeyboardInterrupt:
         print("\nKeyboard interrupted. \nExiting...")
         sys.exit(0)
