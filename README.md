@@ -22,33 +22,33 @@ Try different wordlists
 
 ## Preview
 
-**(https://github.com/d-captainkenya/decrypt-md5-hash)**
+**(https://github.com/d-c4ptain/decrypt-md5-hash)**
 
 
 ## Download and Installation
 
 To install md5 hash decrypter, choose one of the following options:
-* Clone the repo: `git clone https://github.com/d-captainkenya/decrypt-md5-hash)`
-* [Fork, Clone, or Download on GitHub](https://github.com/d-captainkenya/decrypt-md5-hash)
+* Clone the repo: `git clone https://github.com/d-c4ptain/decrypt-md5-hash)`
+* [Fork, Clone, or Download on GitHub](https://github.com/d-c4ptain/decrypt-md5-hash)
 
 
 ## Bugs and Issues
 
 Have a bug or an issue with this md5 hash decrypter?
-[Open a new issue](https://github.com/d-captainkenya/decrypt-md5-hash/issues) here on GitHub 
+[Open a new issue](https://github.com/d-c4ptain/decrypt-md5-hash/issues) here on GitHub 
 
-## D_CAPTAINKENYA
+## D_C4PTAIN
 
-This simple md5 hash decrypter was created and is maintained by **[d_captainkenya](https://d-captainkenya.github.io/)**
-* https://d-captainkenya.github.io/
-* https://twitter.com/d_captainkenya
-* https://d-captainkenya.medium.com
-* https://github.com/d-captainkenya
+This simple md5 hash decrypter was created and is maintained by **[d-c4ptain](https://d-c4ptain.github.io/)**
+* https://d-c4ptain.github.io/
+* https://twitter.com/d_c4ptain
+* https://d-captain.medium.com
+* https://github.com/d-c4ptain
 * https://www.facebook.com/dee.captainkenya
 * https://www.youtube.com/channel/UCPPxJ2XmVOqfyvb39x_srKg
-* https://www.linkedin.com/in/dennis-masila-a48067160/
+* https://www.linkedin.com/in/dennis-masila/
 
 
 ## Copyright and License
 
-Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/decrypt-md5-hash/blob/master/LICENSE) license.
+Copyright 2013-2021 under the [MIT] (https://github.com/d-c4ptain/decrypt-md5-hash/blob/master/LICENSE) license.
