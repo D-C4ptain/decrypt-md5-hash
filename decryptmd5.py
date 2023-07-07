@@ -5,7 +5,7 @@ import hashlib
 def disp():
     print("\n"+"*"*65) 
     print(pyfiglet.figlet_format("          Dcap-Md5"))
-    print("*\t\t\tD_captainkenya\t\t\t\t*")
+    print("*\t\t\t\tD-c4ptain\t\t\t\t*")
     print("*\t\t    Dcaptainkenya@gmail.com\t\t\t*")
     print("*\t      https://www.D-captainkenya.github.io\t\t*")
     print("*"*65)
